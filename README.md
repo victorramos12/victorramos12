@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Victor Meijerink
 
-- 🌱 I’m currently learning Python and C
+- 🌱 I’m currently learning UE5 and upgrading my knowledg in C++
 - 😄 Pronouns: ele/dele
 
 <div align="center">
